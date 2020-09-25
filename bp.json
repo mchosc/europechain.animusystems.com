@@ -1,0 +1,72 @@
+{
+	"producer_account_name": "animusystems",
+	"org": {
+		"candidate_name": "Animus Systems",
+		"website": "https://www.animusystems.com",
+		"code_of_conduct": "https://www.animusystems.com/code-of-conduct",
+		"ownership_disclosure": "",
+		"email": "mchosc@animusystems.com",
+		"branding": {
+			"logo_256": "https://europechain.animusystems.com/AnimusSign-256.png",
+			"logo_1024": "https://europechain.animusystems.com/AnimusSign-1024.png",
+			"logo_svg": "https://europechain.animusystems.com/animusign.svg"
+		},
+		"location": {
+			"name": "Tenerife, Canary Islands, Spain",
+			"country": "ES",
+			"latitude": 28.467319,
+			"longitude": -16.247113
+		},
+		"social": {
+			"steemit": "",
+			"twitter": "",
+			"youtube": "",
+			"facebook": "animusystems",
+			"github": "",
+			"reddit": "",
+			"keybase": "",
+			"telegram": "I_Seth",
+			"wechat": ""
+		}
+	},
+	"nodes": [{
+			"location": {
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "ES",
+				"latitude": 28.467319,
+				"longitude": -16.247113
+			},
+			"node_type": "producer",
+			"p2p_endpoint": "",
+			"api_endpoint": "",
+			"ssl_endpoint": ""
+		},
+{
+      "location": {
+      "name": "Tenerife, Canary Islands, Spain",
+      "country": "ES",
+      "latitude": 28.467319,
+      "longitude": -16.247113
+      },
+      "node_type": "seed",
+      "p2p_endpoint": "bp-europechain.animusystems.com:5454",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+		        {
+                         "location": {
+			        "name": "Tenerife, Canary Islands, Spain",
+			        "country": "ES",
+			        "latitude": 28.467319,
+			        "longitude": -16.247113
+		},
+		"node_type": "query",
+		"p2p_endpoint": "",
+		"api_endpoint": "",
+		"ssl_endpoint": "https://bp-europechain.animusystems.com",
+		"features": [
+      		   "chain-api",
+      		   "account-query"
+			]
+	}]
+}
